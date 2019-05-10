@@ -1,1 +1,3 @@
-# Random_Projects
+# Random Projects
+
+Collection of random programming projects
